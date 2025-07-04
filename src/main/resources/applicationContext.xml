@@ -1,0 +1,23 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+         http://www.springframework.org/schema/beans
+         http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="adherentRepository" class="com.maBibliotheque.repository.AdherentRepository" />
+    <bean id="exemplaireRepository" class="com.maBibliotheque.repository.ExemplaireRepository" />
+    <bean id="empruntRepository" class="com.maBibliotheque.repository.EmpruntRepository" />
+
+    <bean id="empruntService" class="com.maBibliotheque.service.EmpruntService">
+        <constructor-arg ref="adherentRepository" />
+        <constructor-arg ref="exemplaireRepository" />
+        <constructor-arg ref="empruntRepository" />
+    </bean>
+
+    <bean id="dashboardRepository" class="com.maBibliotheque.repository.DashboardRepository" />
+<bean id="dashboardService" class="com.maBibliotheque.service.DashboardService">
+    <constructor-arg ref="dashboardRepository" />
+</bean>
+
+
+</beans>

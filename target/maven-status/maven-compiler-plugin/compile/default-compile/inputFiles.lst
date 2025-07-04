@@ -1,0 +1,17 @@
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\Main.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\model\Adherent.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\model\Emprunt.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\model\Livre.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\repository\AdherentRepository.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\repository\DashboardRepository.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\repository\EmpruntRepository.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\repository\ExemplaireRepository.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\repository\StaffRepository.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\repository\StatistiqueRepository.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\service\DashboardService.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\service\EmpruntService.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\servlet\DashboardServlet.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\servlet\EmpruntServlet.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\servlet\LoginServlet.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\servlet\RetourServlet.java
+C:\Users\TUF\Desktop\Gestion_bibliotheque\Gestion_bibliotheque_spring_maven\src\main\java\com\maBibliotheque\util\DatabaseConnection.java

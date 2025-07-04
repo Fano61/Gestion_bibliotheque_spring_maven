@@ -1,0 +1,17 @@
+com\maBibliotheque\model\Adherent.class
+com\maBibliotheque\service\DashboardService.class
+com\maBibliotheque\servlet\LoginServlet.class
+com\maBibliotheque\repository\EmpruntRepository.class
+com\maBibliotheque\repository\AdherentRepository.class
+com\maBibliotheque\repository\StaffRepository.class
+com\maBibliotheque\repository\ExemplaireRepository.class
+com\maBibliotheque\servlet\EmpruntServlet.class
+com\maBibliotheque\repository\DashboardRepository.class
+com\maBibliotheque\repository\StatistiqueRepository.class
+com\maBibliotheque\model\Emprunt.class
+com\maBibliotheque\servlet\DashboardServlet.class
+com\maBibliotheque\util\DatabaseConnection.class
+com\maBibliotheque\service\EmpruntService.class
+com\maBibliotheque\model\Livre.class
+com\maBibliotheque\Main.class
+com\maBibliotheque\servlet\RetourServlet.class
